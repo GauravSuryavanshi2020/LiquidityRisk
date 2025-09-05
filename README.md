@@ -6,8 +6,8 @@ Goal is to ensure that a bank maintains enough high-quality liquid assets (HQLA)
 𝐶
 𝑅
 =
-Stock of High Quality Liquid Assets (HQLA)
-Total Net Cash Outflows over the next 30 days
+(Stock of High Quality Liquid Assets (HQLA)) / 
+(Total Net Cash Outflows over the next 30 days)
 ×
 100
 %
