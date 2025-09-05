@@ -1,0 +1,5 @@
+Asset,Level,Nominal,Haircut %,Effective (after haircut),Effective (after caps)
+Cash,Level 1,50,0.0,50.0,50.0
+Sovereign Bonds (2A),Level 2A,30,0.15,25.5,20.83325
+Corporate Bonds (2B),Level 2B,20,0.25,15.0,8.72089534883721
+RMBS (2B),Level 2B,10,0.35,6.5,3.7790546511627907
